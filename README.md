@@ -14,7 +14,8 @@ The microwave does not have any automatic minute functions, you can only type in
 
 The defrost function is very confusing, it is unclear how to use and what information the microwave needs when using the defrost function, it comes up with a snowflake type of symbol then after you select a time. 
 
-![projectimg1](https://user-images.githubusercontent.com/44306680/108809361-4b976f00-756e-11eb-8f97-7074e07bccf9.jpg)
+
+![revised](https://user-images.githubusercontent.com/44306680/108810837-9f578780-7571-11eb-92d7-de8d4bec3233.png)
 
 
 
