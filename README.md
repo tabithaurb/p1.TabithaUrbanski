@@ -30,3 +30,10 @@ The microwave provides feedback to the user by beeping anytime you press a butto
 
 
 Some current mistakes you can make with this design are, not knowing how to open the door, assuming that the time will immeadtely be one minute if pressing the 1 button. 
+
+
+
+Here is my final design: 
+
+<img width="500" alt="p1 TabithaUrbanski" src="https://user-images.githubusercontent.com/44306680/109401214-f7481280-7912-11eb-9a15-63550d906b37.png">
+
