@@ -7,6 +7,11 @@ Project 1 URL: https://tabithaurb.github.io/p1.TabithaUrbanski/
 
 ![project1](https://user-images.githubusercontent.com/44306680/108809380-56520400-756e-11eb-9d6e-787abdb0201e.jpg)
 
+
+
+![p1 TabithaUrbanski](https://user-images.githubusercontent.com/44306680/109401518-df718e00-7914-11eb-8bd2-37690d81f932.gif)
+
+
 One issue with the microwave is that there is no button to open the door, a lot of times there is a button to open the microwave door and so you might be looking for a way to open it if you are unfamiliar but really all you do is pull on the handle. 
 
 The hold 3 sec button is not clear at all with what it does, it is right next to the cancel button so you may think that holding the cancel button for three seconds makes it lock. Still, the lock function itself is unclear with what it locks. 
