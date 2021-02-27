@@ -35,9 +35,10 @@ The microwave provides feedback to the user by beeping anytime you press a butto
 
 Some current mistakes you can make with this design are, not knowing how to use the defrost or cook function, assuming that the time will immeadtely be one minute if pressing the 1 button. 
 
+## Here is my design solution for a better microwave:
+![p1 Tabitha_Design](https://user-images.githubusercontent.com/44306680/109402355-d97eab80-791a-11eb-8ecb-091d8d35fea8.png)
 
-
-Here is my final design: 
+## Here is my final design: 
 
 <img width="500" alt="p1 TabithaUrbanski" src="https://user-images.githubusercontent.com/44306680/109401214-f7481280-7912-11eb-9a15-63550d906b37.png">
 
